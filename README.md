@@ -29,15 +29,25 @@ This Java project demonstrates image encryption using the AES algorithm in CBC m
 ## Usage
 
   Replace the input.jpg file in the project directory with your own image file.
+
   Run the ImageEncryptionApp to perform image encryption and decryption.
+
   The encrypted image will be saved as encrypted.jpg, and the decrypted image will be saved as decrypted.jpg.
+
 
 ## Project Structure
 
   ImageEncryptionApp.java: Main class for running image encryption and decryption.
+
   ImageUtils.java: Utility class for image handling.
+
   input.jpg: Sample input image (replace with your own image).
+
   iv.bin: File containing the Initialization Vector (IV) used for encryption.
+
   encrypted.jpg: Encrypted image file.
+
   decrypted.jpg: Decrypted image file.
+
   README.md: Project documentation.
+
