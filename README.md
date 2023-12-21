@@ -10,8 +10,7 @@ This Java project demonstrates image encryption using the AES algorithm in CBC m
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
