@@ -21,7 +21,7 @@ This Java project demonstrates image encryption using the AES algorithm in CBC m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/image-encryption-aes.git
+   git clone https://github.com/Akshat0404/AES-Image-Encryptor.git
   Open the project in your preferred Java Integrated Development Environment (IDE).
   
   Build and run the ImageEncryptionApp.java class.
